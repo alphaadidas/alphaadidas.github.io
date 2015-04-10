@@ -4,7 +4,7 @@
  * @ngdoc function
  * @name workspaceTechnicityApp.controller:MathCtrl
  * @description
- * # AboutCtrl
+ * # MathCtrl
  * Controller of the workspaceTechnicityApp
  */
 angular.module('workspaceTechnicityApp')
