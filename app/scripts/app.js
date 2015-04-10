@@ -29,6 +29,10 @@ angular
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
       })
+      .when('/math', {
+        templateUrl: 'views/math.html',
+        controller: 'MathCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
